@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa4ad777-e287-44c3-a582-73862359515d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/JusticeLeagueManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/JusticeLeagueManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/config/MongoConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/config/MongoConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/constants/MessageConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/constants/MessageConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/dao/JusticeLeagueRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/dao/JusticeLeagueRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/dao/TestDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/dao/TestDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/domain/JusticeLeagueMemberDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/domain/JusticeLeagueMemberDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/domain/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/domain/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/exception/JusticeLeagueManagementException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/exception/JusticeLeagueManagementException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/service/JusticeLeagueMemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/service/JusticeLeagueMemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/service/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/service/TestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/service/impl/JusticeLeagueMemberServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/service/impl/JusticeLeagueMemberServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/service/impl/TestServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/service/impl/TestServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/web/dto/JusticeLeagueMemberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/web/dto/JusticeLeagueMemberDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/web/dto/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/web/dto/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/web/dto/TestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/web/dto/TestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/web/rest/controller/JusticeLeagueManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/web/rest/controller/JusticeLeagueManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/justiceleague/justiceleaguemodule/web/transformer/DTOToDomainTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gennadziy/web/transformer/DTOToDomainTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/justiceleague/justiceleaguemodule/dao/JusticeLeagueRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gennadziy/dao/JusticeLeagueRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/justiceleague/justiceleaguemodule/service/impl/JusticeLeagueMemberServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gennadziy/service/impl/JusticeLeagueMemberServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/justiceleague/justiceleaguemodule/test/util/BaseIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gennadziy/test/util/BaseIntegrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/justiceleague/justiceleaguemodule/web/rest/controller/JusticeLeagueManagementControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gennadziy/web/rest/controller/JusticeLeagueManagementControllerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l8bAG1FdYS2uZuNtykHQHyJK5M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.justiceleague.justiceleaguemodule.web.dto" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/justiceleague" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JusticeLeagueManagementApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JusticeLeagueMemberServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gennadziy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.justiceleague.justiceleaguemodule.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.justiceleague.justiceleaguemodule.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.justiceleague.justiceleaguemodule.service.impl.JusticeLeagueMemberServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JusticeLeagueManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gennadziy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.justiceleague.justiceleaguemodule.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.justiceleague.justiceleaguemodule.JusticeLeagueManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.JusticeLeagueManagementApplication" />
+        <item itemvalue="JUnit.JusticeLeagueMemberServiceImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa4ad777-e287-44c3-a582-73862359515d" name="Default Changelist" comment="" />
+      <created>1606981521178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606981521178</updated>
+      <workItem from="1606981522819" duration="498000" />
+      <workItem from="1606982035947" duration="16656000" />
+      <workItem from="1607067060987" duration="504000" />
+      <workItem from="1607160824662" duration="1151000" />
+      <workItem from="1607161993629" duration="303000" />
+      <workItem from="1607162362888" duration="352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
