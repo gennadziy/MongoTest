@@ -15,4 +15,5 @@ public interface TestService {
      */
     void addTest(final TestDTO testDTO);
      List<Test> getAlll() throws InterruptedException;
+
 }

@@ -18,7 +18,7 @@ public class Test {
 
 
     @Id
-    private Object id;
+    private Integer id;
     @Indexed
     private String name;
 

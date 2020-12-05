@@ -23,10 +23,9 @@ import java.util.List;
 /**
  * This class exposes the REST API for the system.
  *
- * @author dinuka
+ * @author
  */
 @RestController
-@RequestMapping("/justiceleague")
 public class JusticeLeagueManagementController {
 
     @Autowired
@@ -49,11 +48,11 @@ public class JusticeLeagueManagementController {
      * adding the member was successful.
      */
     @ResponseBody
-    @ResponseStatus(value = HttpStatus.CREATED)
-    @RequestMapping(method = RequestMethod.POST, produces = {
-            MediaType.APPLICATION_JSON_VALUE}, consumes = {MediaType.APPLICATION_JSON_VALUE})
+    @PostMapping(produces = {
+            MediaType.APPLICATION_JSON_VALUE}, consumes = {MediaType.APPLICATION_JSON_VALUE} )
+    @ResponseStatus(value = HttpStatus.OK)
     public ResponseDTO addJusticeLeagueMember(@Valid @RequestBody JusticeLeagueMemberDTO justiceLeagueMember) {
-        ResponseDTO responseDTO = new ResponseDTO(ResponseDTO.Status.SUCCESS,
+        ResponseDTO responseDTO = new ResponseDTO(ResponseDTO.Status.GOVNO,
                 MessageConstants.MEMBER_ADDED_SUCCESSFULLY);
         try {
             memberService.addMember(justiceLeagueMember);
@@ -62,6 +61,11 @@ public class JusticeLeagueManagementController {
             responseDTO.setMessage(e.getMessage());
         }
         return responseDTO;
+    }
+
+    @PostMapping("/add")
+    public JusticeLeagueMemberDetail addToDb(JusticeLeagueMemberDetail test) {
+        return justiceLeagueRepository.save(test);
     }
 
     @GetMapping("/all")

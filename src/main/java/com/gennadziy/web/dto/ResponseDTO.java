@@ -45,6 +45,6 @@ public class ResponseDTO {
 	}
 
 	public enum Status {
-		SUCCESS, FAIL
+		SUCCESS, FAIL, GOVNO
 	}
 }
